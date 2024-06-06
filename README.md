@@ -1,7 +1,9 @@
 ## Hola! 👋
 
 Desarrollador en "desarrollo".
-👨‍🔬 Interersado en Data Science, ML, e IA
+👨‍🔬 Interersado en Data Science, ML e IA
+⌨ Lenguajes: Python, Java, Javascript, C#
+
 
 <!--
 **VictordotCC/VictordotCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
