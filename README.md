@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hola! 👋
+
+Desarrollador en "desarrollo".
+👨‍🔬 Interersado en Data Science, ML, e IA
 
 <!--
 **VictordotCC/VictordotCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
