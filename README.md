@@ -1,8 +1,8 @@
 ## Hola! 👋
 
 Desarrollador en "desarrollo".
-👨‍🔬 Interersado en Data Science, ML e IA
-⌨ Lenguajes: Python, Java, Javascript, C#
+👨‍🔬 Interesado en Data Science, ML e IA
+⌨ Tecnologías: Python, Javascript, HTML/CSS
 
 
 <!--
