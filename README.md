@@ -1,6 +1,5 @@
 ## Hola! 👋
 
-Desarrollador en "desarrollo".
 👨‍🔬 Interesado en Data Science, ML e IA
 ⌨ Tecnologías: Python, Javascript, HTML/CSS
 
